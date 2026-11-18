@@ -1,0 +1,31 @@
+# User documents, keys, settings and history
+/data/
+/results/
+/updates/
+/.update-backup/
+/.local/
+/.env
+/.env.*
+*.sqlite
+*.sqlite3
+*.db
+*.log
+*.pem
+*.key
+# Downloaded models and native runtime belong in local assets or release packages
+/assets/
+*.gguf
+*.onnx
+*.dll
+*.exe
+/dist/
+/build/
+*.spec
+/.venv/
+/venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+/test-results/
+/vendor-source/*.tar.gz

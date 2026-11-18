@@ -1,0 +1,32 @@
+[
+  {
+    "name": "pymupdf",
+    "version": "2.1",
+    "file": "pymupdf-2.1.tar.gz",
+    "sha256": "9ac95f98016e83eafb8f1d786396f9c60e400d559590596e5b2df9eb6384948b",
+    "url": "https://pypi.tuna.tsinghua.edu.cn/packages/13/d9/5ae3cce31a4a62de4f6979331b4d8d5b86a8f2520f06754cf5e69065c887/pymupdf-2.1.tar.gz#sha256=9ac95f98016e83eafb8f1d786396f9c60e400d559590596e5b2df9eb6384948b"
+  },
+  {
+    "name": "babeldoc",
+    "version": "0.6.4",
+    "file": "babeldoc-0.6.4.tar.gz",
+    "sha256": "dbd2a69ccaf6678c34089f8c422a38a0fa170f5fa88ee1313b4235103421a875",
+    "url": "https://pypi.tuna.tsinghua.edu.cn/packages/a8/6b/96925501ac8d8b22bcbddd3a8baebe53575e37cd1f82ba634b95000d0bfe/babeldoc-0.6.4.tar.gz#sha256=dbd2a69ccaf6678c34089f8c422a38a0fa170f5fa88ee1313b4235103421a875"
+  },
+  {
+    "name": "llama.cpp",
+    "version": "b12069",
+    "file": "llama.cpp-b12069.tar.gz",
+    "size": 38906564,
+    "sha256": "8cecf609cb1584e0bc7cd6e81dca9de19a40fea20529fa406280daa067871ec9",
+    "url": "https://codeload.github.com/ggml-org/llama.cpp/tar.gz/refs/tags/b12069"
+  },
+  {
+    "name": "mupdf-full-source",
+    "version": "1.28.6",
+    "file": "mupdf-1.28.6-source.tar.gz",
+    "size": 68924915,
+    "sha256": "dc85000640a45d90ca9b77b061f6ca67cce0c4d4fbecf8819647baf573eef101",
+    "url": "https://casper.mupdf.com/downloads/archive/mupdf-1.28.6-source.tar.gz"
+  }
+]

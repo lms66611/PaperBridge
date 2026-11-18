@@ -1,0 +1,19 @@
+{
+  "manifest_version": 2,
+  "name": "PaperBridge 文献对照翻译",
+  "version": "1.4.7",
+  "description": "双语 PDF 翻译与对照阅读。插件更新包由 PaperBridge 桌面程序提供。",
+  "author": "PaperBridge contributors",
+  "icons": {
+    "48": "icon.svg",
+    "96": "icon.svg"
+  },
+  "applications": {
+    "zotero": {
+      "id": "paperbridge@local.app",
+      "update_url": "https://127.0.0.1/paperbridge-updates-disabled.json",
+      "strict_min_version": "7.0",
+      "strict_max_version": "10.*"
+    }
+  }
+}
